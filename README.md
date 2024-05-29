@@ -1,5 +1,5 @@
 ## Requirements
-<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
 ### Backend technologies:
 - Java 17 or higher required
 - Spring Boot
