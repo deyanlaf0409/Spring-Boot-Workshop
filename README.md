@@ -10,6 +10,7 @@
 - MySQL Database
 - Hibernate
 
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
 ### Frontend technologies:
 - Javascript
 - CSS
