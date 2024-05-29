@@ -30,3 +30,10 @@
 - Create a new `ReactJS` application
 - Add a well-looking registration form
 - Call the POST API from the backend for creating a new student
+
+ ### Run the spring boot application with the command: 
+		mvn spring-boot:run
+  ### Run the React application with the command: 
+		npm start
+- your frontend application is started on http://localhost:3000/
+- your backend application is started on http://localhost:8080/
