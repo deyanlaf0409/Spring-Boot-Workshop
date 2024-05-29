@@ -4,6 +4,7 @@
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
 <a href="https://hibernate.org/" title="Hibernate"><img src="https://github.com/get-icon/geticon/blob/master/icons/hibernate.svg" alt="Hibernate" width="30px" height="30px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node.js" width="30px" height="30px"></a>
 
 ### Backend technologies:
 - Java 17 or higher required
